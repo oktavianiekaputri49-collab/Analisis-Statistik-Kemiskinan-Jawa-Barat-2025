@@ -1,0 +1,68 @@
+📊 Analisis Statistik Kemiskinan Jawa Barat 2025
+Deskripsi Project:
+Project ini membahas analisis statistik data kemiskinan kabupaten/kota di Jawa Barat tahun 2025 menggunakan data dari Badan Pusat Statistik (BPS). Analisis dilakukan untuk mengetahui jumlah penduduk miskin, persentase kemiskinan, proporsi data, serta variasi tingkat kemiskinan antar daerah di Jawa Barat.
+
+Tujuan Project:
+Menganalisis kondisi kemiskinan di Jawa Barat tahun 2025
+Membandingkan tingkat kemiskinan antar kabupaten/kota
+Mengidentifikasi daerah dengan tingkat kemiskinan tinggi dan rendah
+Menghitung rata-rata, proporsi, dan varians data kemiskinan
+Melatih kemampuan analisis data statistik menggunakan Microsoft Excel
+
+Tools yang Digunakan:
+Microsoft Excel
+Statistik Deskriptif
+Data Visualization
+
+Dataset
+Sumber Data:
+Badan Pusat Statistik (BPS) Jawa Barat 2025
+
+Dataset mencakup:
+Kabupaten/Kota
+Jumlah Penduduk
+Persentase Kemiskinan
+Jumlah Penduduk Miskin
+Proporsi Data
+Varians Data (S²)
+
+Metode Analisis
+Metode yang digunakan:
+Statistik deskriptif
+Perhitungan persentase kemiskinan
+Perhitungan proporsi data
+Perhitungan varians (S²)
+Penyajian grafik data
+Interpretasi hasil analisis
+Tahapan pengolahan data:
+Menginput data ke Microsoft Excel
+Membuat tabel analisis data
+Menghitung statistik data
+Menyusun visualisasi grafik
+Menafsirkan hasil analisis
+
+Hasil Analisis
+Hasil analisis menunjukkan bahwa:
+Kabupaten Indramayu memiliki tingkat kemiskinan tertinggi sebesar 11,02%
+Kota Tasikmalaya dan Kabupaten Kuningan juga menunjukkan tingkat kemiskinan yang relatif tinggi
+Kota Depok memiliki tingkat kemiskinan terendah sebesar 2,31%
+Kota Bandung dan Kota Bekasi termasuk daerah dengan persentase kemiskinan rendah
+Nilai varians data menunjukkan adanya perbedaan tingkat kemiskinan antar wilayah di Jawa Barat
+Data ini menunjukkan bahwa pemerataan kesejahteraan masyarakat masih menjadi tantangan di beberapa daerah.
+
+Visualisasi Data
+Project ini menyajikan:
+Grafik tingkat kemiskinan kabupaten/kota
+Perbandingan daerah dengan tingkat kemiskinan tertinggi dan terendah
+Tabel statistik kemiskinan Jawa Barat 2025
+
+Skill yang Dipelajari:
+Data Analysis
+Statistik Deskriptif
+Pengolahan Data Excel
+Data Visualization
+Interpretasi Statistik
+Analisis Data Sosial Ekonomi
+
+Author:
+Oktaviani Eka Putri
